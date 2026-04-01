@@ -1,6 +1,6 @@
 # Clinical Trial Patient Matching with LLMs (RAG)
 
-Built a **retrieval-augmented generation (RAG)** pipeline to match patients to clinical trial eligibility criteria using **unstructured EHR notes**. Evaluated **similarity-based retrieval** vs **hybrid retrieval** (keywords + **UMLS synonym expansion**) for both **Boolean** and **numeric** criteria on the **MIMIC-IV Apixaban trial criteria questions** dataset. :contentReference[oaicite:0]{index=0}
+Built a **retrieval-augmented generation (RAG)** pipeline to match patients to clinical trial eligibility criteria using **unstructured EHR notes**. Evaluated **similarity-based retrieval** vs **hybrid retrieval** (keywords + **UMLS synonym expansion**) for both **Boolean** and **numeric** criteria on the **MIMIC-IV Apixaban trial criteria questions**
 
 ## What’s inside
 - Note chunking with sentence overlap
